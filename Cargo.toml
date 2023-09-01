@@ -1,5 +1,7 @@
 [package]
 name = "vm-detect"
+description = "Detect if your rust code is running under a virtual machine (only for x86_64 and x86)"
+repository = "https://gitlab.com/polloloco/vm-detect"
 version = "0.1.0"
 edition = "2021"
 authors = ["PolloLoco <polloloco@mailbox.org>"]
