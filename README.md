@@ -1,5 +1,9 @@
 # Basic VM detection for x86 and x86_64
 
+[![Latest version](https://img.shields.io/crates/v/vm-detect.svg)](https://crates.io/crates/vm-detect)
+[![Documentation](https://docs.rs/vm-detect/badge.svg)](https://docs.rs/vm-detect)
+![License](https://img.shields.io/crates/l/vm-detect.svg)
+
 Usage:
 
 ```rust
