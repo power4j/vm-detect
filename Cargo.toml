@@ -1,0 +1,9 @@
+[package]
+name = "vm-detect"
+version = "0.1.0"
+edition = "2021"
+authors = ["PolloLoco <polloloco@mailbox.org>"]
+license = "MIT"
+
+[dependencies]
+bitflags = "2.4.0"
